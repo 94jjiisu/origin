@@ -23,4 +23,4 @@ CHECK_AREA_STATEMENT = "git status"
 
 COMMIT_TO_REPO = 'git commit -m "Part3 commit"'
 
-PUSH_TO_REMOTE = "origin 이라는 이름을 가진 Github Repo 에 로컬의 main 브랜치 상태를 반영하는 CLI 명령어를 작성합니다."
+PUSH_TO_REMOTE = "git push origin main"
